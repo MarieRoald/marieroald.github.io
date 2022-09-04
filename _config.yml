@@ -9,7 +9,7 @@
 locale                   : "en-UK"
 title                    : "Marie Roald"
 title_separator          : "-"
-name                     : &name "Marie"
+name                     : &name "Marie Roald"
 description              : &description "PhD student and educator"
 url                      : https://marieroald.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Marie Roald"
   avatar           : "profile.png"
-  bio              : "PhD student"
+  bio              : "PhD student and educator"
   location         : "Oslo"
   employer         :
   pubmed           : 
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=kOdMHhgAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
