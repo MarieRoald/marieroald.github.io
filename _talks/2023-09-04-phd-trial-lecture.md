@@ -9,4 +9,4 @@ location: "Oslo, Norway"
 thumbnail: trial-lecture.jpg
 ---
 
-Lecture materials: [https://github.com/MarieRoald/phd-defence-trial-lecture](https://github.com/MarieRoald/phd-defence-trial-lecture)
+**Lecture materials:** [https://github.com/MarieRoald/phd-defence-trial-lecture](https://github.com/MarieRoald/phd-defence-trial-lecture)
