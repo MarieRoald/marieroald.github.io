@@ -1,5 +1,5 @@
 ---
-title: "Python Crash Course"
+title: "Introduction to Python"
 collection: teaching
 type: "Three-day course"
 permalink: /teaching/2021-tekna-intro

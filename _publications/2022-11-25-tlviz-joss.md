@@ -3,7 +3,7 @@ title: "TLViz: Visualising and analysing tensor decomposition models with Python
 collection: publications
 permalink: /publication/2022-11-25-tlviz-joss
 excerpt: 'Software paper for TensorLy-Viz – a Python package for analysing and visualising tensor decomposition models.'
-date: 2022-08-30
+date: 2022-11-25
 venue: 'Journal of Open Source Software (JOSS)'
 paperurl: 'https://joss.theoj.org/papers/10.21105/joss.04754'
 citation: 'Roald M, Moe YM. TLViz: Visualising and analysing tensor decomposition models with Python. Journal of Open Source Software. 2022;7(79):4754.'

@@ -8,7 +8,7 @@ date: 2021-09-26
 location: "Oslo, Bergen, Trondheim, Lillesand, Digitally"
 ---
 
-Two-day crash course in Python for high school science teachers.
+Two-day introductory course in Python for high school science teachers.
 
 **Courses held:**
 

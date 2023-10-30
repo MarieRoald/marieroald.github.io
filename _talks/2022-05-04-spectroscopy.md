@@ -6,5 +6,6 @@ permalink: /talks/2022-05-04-spectroscopy
 venue: "Data Analysis in Spectroscopy and Imaging Young Scientists Workshop"
 date: 2022-05-04
 location: "Norwegian University of Life Sciences, Ås, Norway"
+thumbnail: "spectroscopy.jpg"
 ---
 

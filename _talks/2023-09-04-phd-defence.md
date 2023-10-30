@@ -6,4 +6,5 @@ permalink: /talks/2023-09-04
 venue: "OsloMet/SimulaMet"
 date: 2023-09-04
 location: "Oslo, Norway"
+thumbnail: "defence.jpg"
 ---
