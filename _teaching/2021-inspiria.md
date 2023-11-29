@@ -13,4 +13,4 @@ Two-day crash course in Python for employees at Inspiria Science Center.
 **Courses held:**
 
  - August 2021 - Inspiria Science Center
-   - **Responsibilities:** Course design, mevising materials and lecturing.
+   - **Responsibilities:** Course design, mevising materials and teaching.

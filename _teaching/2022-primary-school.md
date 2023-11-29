@@ -13,10 +13,10 @@ Five-day intensive course teaching Python and how to use it in science education
 **Courses held:**
 
  - August/September 2022 - Oslo kommune
-   - **Responsibilities:** Coordinating lecturers, course design, making materials and lecturing.
+   - **Responsibilities:** Coordinating lecturers, course design, making materials and teaching.
  - January 2020 - Asker kommune
-   - **Responsibilities:** Revising materials and lecturing.
+   - **Responsibilities:** Revising materials and teaching.
  - November 2019 - Bærum kommune
-   - **Responsibilities:** Revising materials and lecturing.
+   - **Responsibilities:** Revising materials and teaching.
  - September 2019 - Asker kommune
-   - **Responsibilities:** Course design, making materials and lecturing.
+   - **Responsibilities:** Course design, making materials and teaching.

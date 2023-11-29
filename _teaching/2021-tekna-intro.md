@@ -13,16 +13,16 @@ Two-day introductory course in Python for high school science teachers.
 **Courses held:**
 
  - October 2021 - Digitally
-   - **Responsibilities:** Course design, revising materials and lecturing.
+   - **Responsibilities:** Course design, revising materials and teaching.
  - September 2020 - Digitally
-   - **Responsibilities:** Course design, making materials and lecturing.
+   - **Responsibilities:** Course design, making materials and teaching.
  - November 2019 - Trondheim
-   - **Responsibilities:** Lecturing.
+   - **Responsibilities:** Teaching.
  - November 2019 - Bergen
-   - **Responsibilities:** Lecturing.
+   - **Responsibilities:** Revising materials, teaching.
  - March 2019 - Lillesand
-   - **Responsibilities:** Revising materials, lecturing.
+   - **Responsibilities:** Revising materials, teaching.
  - February 2019 - Oslo
-   - **Responsibilities:** Revising materials, lecturing.
+   - **Responsibilities:** Revising materials, teaching.
  - November 2018 - Oslo
-   - **Responsibilities:** Course design, making materials and lecturing.
+   - **Responsibilities:** Course design, making materials and teaching.

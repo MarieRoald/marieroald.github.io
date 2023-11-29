@@ -13,8 +13,8 @@ Five-day intensive course teaching Python and how to use it in science education
 **Courses held:**
 
  - November 2022 - Viken fylkeskommune
-   - **Responsibilities:** Coordinating lecturers, revising materials and lecturing.
+   - **Responsibilities:** Coordinating lecturers, revising materials and teaching.
  - November/December 2021 - Viken fylkeskommune
-   - **Responsibilities:** Revising materials and lecturing.
+   - **Responsibilities:** Revising materials and teaching.
  - March/April 2019 - Akershus fylkeskommune
-   - **Responsibilities:** Course design, making materials and lecturing.
+   - **Responsibilities:** Course design, making materials and teaching.

@@ -13,10 +13,10 @@ Two-day intermediate course in Python for high school science teachers with a fo
 **Courses held:**
 
  - October 2021 - Digitally
-   - **Responsibilities:** Revising materials and lecturing.
+   - **Responsibilities:** Revising materials and teaching.
  - March 2021 - Digitally
-   - **Responsibilities:** Revising materials and lecturing.
+   - **Responsibilities:** Revising materials and teaching.
  - October 2020 - Digitally
-   - **Responsibilities:** Revising materials and lecturing.
+   - **Responsibilities:** Revising materials and teaching.
  - May 2020 - Digitally
-   - **Responsibilities:** Course design, making materials and lecturing.
+   - **Responsibilities:** Course design, making materials and teaching.
