@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Marie Roald"
 title_separator          : "-"
 name                     : &name "Marie Roald"
-description              : &description "PhD student and educator"
+description              : &description "Informasjonsteknolog ved Nasjonalbiblioteket | Data Scientist at the National Library of Norway"
 url                      : https://marieroald.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "marieroald/marieroald.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Marie Roald"
   avatar           : "profile.png"
-  bio              : "PhD student and educator"
+  bio              : "Informasjonsteknolog ved Nasjonalbiblioteket | Data Scientist at the National Library of Norway"
   location         : "Oslo"
   employer         :
   pubmed           : 
